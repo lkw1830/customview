@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalBar">
+        <attr name="percentage" format="float" />
+        <attr name="backgroundColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="CircularProgress">
+        <attr name="progress" format="float" />
+    </declare-styleable>
+</resources>
